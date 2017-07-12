@@ -1,6 +1,6 @@
-##Getting and Cleaning Data: Course Project
+Getting and Cleaning Data: Course Project
 
-###About the source data
+About the source data
 
 The features are in the x_test.txt. 
 The activity labels are in the y_test.txt file.
