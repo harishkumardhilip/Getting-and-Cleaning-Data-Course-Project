@@ -15,7 +15,7 @@ The script run_analysis.R which will download the file and unzip the same in the
 The test and train data extracted are then labeled for better understanding and only columns which are related to mean and standard deviation are selected.
 
 As a result of the data transformation, tidy data set is created with the means of all the columns per test subject and per activity.
-This tidy dataset will be written to a tidy.csv, which can also be found in this repository.
+This tidy dataset will be written to a tidy.txt, which can also be found in this repository.
 
 ### About the Code Book
 

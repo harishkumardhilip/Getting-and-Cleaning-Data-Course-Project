@@ -26,4 +26,4 @@ Detailed information about the files and features is available in README.txt and
 * Data sets are merged and melted based on subject, activity id and activity name
 * The melted data is recast into the tidy data with mean value for each of the feature for that subject/activity combination.
 * One subject has 6 activities. So for 30 subjects, there are a total of 180 rows
-* The resultant data is written to a csv file.
+* The resultant data is written to a txt file.
