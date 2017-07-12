@@ -64,4 +64,4 @@ melt_data <- melt(all_data, id = id_labels, measure.vars = data_labels)
 # Creating the tidy data set 
 tidy_data <- dcast(melt_data, subject + Activity_Label ~ variable, mean)
 
-write.table(tidy_data, file = "./tidy_data.txt", row.names = FALSE)
+write.table(tidy_data, file = "./tidy_data.txt", row.name = FALSE)
