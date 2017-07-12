@@ -1,10 +1,10 @@
-##CodeBook for the tidy dataset
+## CodeBook for the tidy dataset
 
-###Data source
+### Data source
 
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which is avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-###Files used
+### Files used
 
 * Features.txt
 * activity_labels.txt
@@ -17,7 +17,7 @@ This dataset is derived from the "Human Activity Recognition Using Smartphones D
 
 Detailed information about the files and features is available in README.txt and features_info.txt.
 
-###Processing steps
+### Processing steps
 
 * Test and Train Data is read into respective tables
 * Column names are assigned to the tables created for readabilty and differentiation
